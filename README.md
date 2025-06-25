@@ -4,13 +4,13 @@ This is my very first mobile app built with Flutter, created as part of a Flutte
 
 ## 📚 About the Project
 
-**Mi Card** is a digital business card app.
+**Mi Card** is a digital business card app that show basic contact information.
 
-### 🎯 Course Objective
+## 🎯 Course Objective
 
 This project focusing on **designing user interfaces** using Flutter's layout system.
 
-### 🚀 What I Learned
+## 🚀 What I Learned
 
 By creating this app, I learned:
 
@@ -27,9 +27,9 @@ By creating this app, I learned:
 
 ## 🖼️ App Preview
 
-> *Home screen*
->
-> ![Demo](documentation/screenshots/home_screen.jpg)
+ *Home screen*
+ 
+ <img src="documentation/screenshots/home_screen.jpg" width="200" />
 
 ---
 
