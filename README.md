@@ -29,7 +29,7 @@ By creating this app, I learned:
 
 > *Home screen*
 >
-> `![Demo](documentation/screenshots/home_screen.jpg)`
+> ![Demo](documentation/screenshots/home_screen.jpg)
 
 ---
 
