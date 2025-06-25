@@ -1,16 +1,41 @@
-# mi_card_flutter
+# 💳 Mi Card - My First Flutter App
 
-A new Flutter project.
+This is my very first mobile app built with Flutter, created as part of a Flutter development course.
 
-## Getting Started
+## 📚 About the Project
 
-This project is a starting point for a Flutter application.
+**Mi Card** is a digital business card app.
 
-A few resources to get you started if this is your first Flutter project:
+### 🎯 Course Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project focusing on **designing user interfaces** using Flutter's layout system.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🚀 What I Learned
+
+By creating this app, I learned:
+
+- ✅ How to create **Stateless Widgets**
+- 🔁 The difference between **hot reload**, **hot refresh**, and **cold start**
+- 🧱 How to use **Containers** to layout UI
+- 🧭 How to use **Columns and Rows** for positioning
+- ✍️ How to add and use **custom fonts**
+- 🎨 How to use **Material Icons**
+- 🖋️ How to **style Text widgets**
+- 📖 How to **read and understand Flutter documentation**
+
+---
+
+## 🖼️ App Preview
+
+> *Home screen*
+>
+> `![Demo](documentation/screenshots/home_screen.jpg)`
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+---
